@@ -33,7 +33,8 @@
   Engineered a RoBERTa + SVMSMOTE architecture to tackle severe minority-class imbalance in conversational data, achieving a 74.19% recall on ambiguous emotion classes.
 - 📄 **10th Pan-IIM World Management Conference (WMC 2025, IIM Ranchi)** (Presented):  
   *"Adoption and Implications of Generative AI in Marketing: A Systematic Review and Research Agenda"*  
-  Conducted PRISMA-compliant systematic literature analysis evaluating enterprise GenAI adoption patterns and operational governance.
+  *Authors:* Nishant Pandey, Navaneeth Binu Raji, Krishnendu Biswas | *Paper ID:* 1306  
+  Conducted PRISMA-compliant systematic literature review (SLR) synthesizing 29 Scopus-indexed studies (2020-2025) on enterprise GenAI adoption dynamics, virtual influencers, and governance frameworks.
 
 ---
 
