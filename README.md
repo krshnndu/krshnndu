@@ -27,8 +27,9 @@
 
 ### 📚 Research & Publications
 
-- 📄 **Springer FICTA 2026** (Accepted):  
+- 📄 **Springer Nature (FICTA 2026, Vol. 4 / SIST Series)** (Accepted):  
   *"Multi-Class Affect Detection in Educational Chatbots: Evidence from Imbalanced Dialogue Data"*  
+  *Authors:* Sobhan Sarkar, Krishnendu Biswas, Anima Pramanik | *Eds:* Vikrant Bhateja, Maitreyee Dey, Jinshan Tang  
   Engineered a RoBERTa + SVMSMOTE architecture to tackle severe minority-class imbalance in conversational data, achieving a 74.19% recall on ambiguous emotion classes.
 - 📄 **10th Pan-IIM World Management Conference (WMC 2025, IIM Ranchi)** (Presented):  
   *"Adoption and Implications of Generative AI in Marketing: A Systematic Review and Research Agenda"*  
