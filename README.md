@@ -14,7 +14,7 @@ I'm looking for **AI product manager and product manager roles**.
 
 | Product | Problem | User | Key decision | Where it stands |
 |---|---|---|---|---|
-| **Termly** | Classes, attendance against absence caps, deadlines and course mail are scattered across portals and inboxes | IIM Ranchi students, sign-in limited to `@iimranchi.ac.in` | Rules first, model second: the AI runs only when no rule matches, under daily caps enforced in the database | Live. 17 non-test users and 7 connected mailboxes (25 Oct 2026). Private repo |
+| **Termly** | Classes, attendance against absence caps, deadlines and course mail are scattered across portals and inboxes | IIM Ranchi students, sign-in limited to `@iimranchi.ac.in` | Rules first, model second: the AI runs only when no rule matches, under daily caps enforced in the database | Live. Used by IIM Ranchi students. Private repo |
 | **[CogPrep Arcade](https://krshnndu.github.io/aptitude-game-practice/)** | Game-based cognitive aptitude tests are hard to practise for | Candidates preparing for game-based aptitude assessments | Show *what you did next to what you should have done* for every puzzle, and keep progress in the browser, no account | Live and open source (MIT). Six games, 531 passing tests. [Repo](https://github.com/krshnndu/aptitude-game-practice) |
 
 ### Termly, in more detail
@@ -23,8 +23,6 @@ I'm looking for **AI product manager and product manager roles**.
 - **Feature ideas go through a gate.** An LLM triages each suggestion for type, effort, risk and duplicates, then holds it for my decision. I approve, deny, ask for more, or merge, and every decision is logged. 24 decisions are on that audit trail so far.
 - **Security as a product requirement.** Row-level security is forced on in Postgres and every write goes through a controlled database function. I commissioned three security review rounds and acted on the findings, including prompt-injection containment, a content security policy and account binding.
 - **Who wrote the code.** I defined the requirements, the architecture and the review loop. AI agents wrote most of the implementation from my briefs.
-
-> Usage is a snapshot, not a trend. Two readings eleven days apart are not a growth rate, so I don't quote one.
 
 ---
 
